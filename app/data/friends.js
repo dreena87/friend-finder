@@ -1,4 +1,4 @@
-var friendsArr = [
+var friends = [
   {
       "name": "Ahmed",
       "photo": "http://4.bp.blogspot.com/-tLY6o0YMSQ4/UkoM3ui7XjI/AAAAAAAAFRI/8qD-VO93SEs/s1600/hot-girl-boxing-viet-nam-1.jpg",
@@ -129,4 +129,4 @@ var friendsArr = [
   }
 ];
 
-module.exports = friendsArr;
+module.exports = friends;
